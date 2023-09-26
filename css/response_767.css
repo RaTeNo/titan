@@ -1,0 +1,87 @@
+@media print, (max-width: 767px) {
+
+    .page_top {
+        flex-direction: column-reverse;
+    }
+    .page_top-logo {
+        margin-bottom: 15px;
+    }
+    .page_top-info span {
+        font-size: 22px;
+        margin-left: 13px;
+    }
+    .page_item-bottom-right {
+        margin-left: 25px;
+    }
+    .page_top-info span {
+        font-size: 20px;
+        margin-left: 10px;
+    }
+    .page_info-label {
+        font-size: 18px;
+    }
+    .page_info-title {
+        font-size: 24px;
+    }
+    .page_info-subtitle {
+        font-size: 20px;
+    }
+    .page_info-text {
+        font-size: 18px;
+    }
+    .page_list .page_info-label {
+        margin-bottom: 14px;
+    }
+    .page_list ol li {
+        font-size: 18px;
+    }
+    .page_item-title {
+        font-size: 20px;
+        margin-bottom: 13px;
+    }
+    .page_item-info-title {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .page_item-info-text {
+        font-size: 18px;
+    }
+    .page_item .page_item-info-label {
+        font-size: 17px;
+    }
+    .page_item-bottom-left, .page_item-bottom-right {
+        font-size: 18px;
+    }
+    .page3 .page_top-info {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .page_img-block {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .page_img-block {
+        margin-bottom: 10px;
+    }
+    .page_img-block .page_img {
+        margin-right: 0;
+    }
+    .page5 .page_top-info {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .page5 .page_top-right {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .page5 .page_top-info span {
+        margin-top: 10px;
+    }
+    .page3 .page_top-info span,
+    .page5 .page_top-info span {
+        font-size: 18px;
+    }
+
+
+
+}

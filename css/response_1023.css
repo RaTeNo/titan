@@ -1,0 +1,48 @@
+@media print, (max-width: 1023px) {
+ 
+    .cont {
+        padding: 0 20px;
+    }
+    .page {
+        padding: 30px 0;
+    }
+    .page_info-title {
+        font-size: 28px;
+    }
+    .page_info-label {
+        font-size: 20px;
+    }
+    .page_info-subtitle {
+        font-size: 22px;
+    }
+    .page_info-text {
+        font-size: 20px;
+    }
+    .page_line {
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .page_list ol li {
+        font-size: 20px;
+    }
+    .page_item-title {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+    .page_item-info-title {
+        font-size: 22px;
+    }
+    .page_item-info-text {
+        font-size: 20px;
+    }
+    .page_item-info-title span {
+        margin-left: 10px;
+    }
+    .page_item-bottom-left,
+    .page_item-bottom-right {
+        font-size: 22px;
+    }
+
+
+    
+}
