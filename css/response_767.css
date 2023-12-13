@@ -82,6 +82,16 @@
         font-size: 18px;
     }
 
+    .page_item-top-info .page_item-info-title {
+        font-size: 24px;
+    }
+    .page_item-top-info .page_item-info-label {
+        font-size: 20px;
+    }
+    .page_item-top-info {
+        margin-bottom: 20px;
+    }
+
 
 
 }

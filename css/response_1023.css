@@ -43,6 +43,13 @@
         font-size: 22px;
     }
 
+    .page_item-top-info .page_item-info-title {
+        font-size: 30px;
+    }
+    .page_item-top-info .page_item-info-label {
+        font-size: 24px;
+    }
+
 
     
 }
