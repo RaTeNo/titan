@@ -513,3 +513,8 @@ button {
 .simulator_point {
     max-width: 520px;
 }
+
+
+.page_item-info-title svg{
+    margin: 0 5px 0 15px;
+}
